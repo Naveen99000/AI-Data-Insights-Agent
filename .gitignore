@@ -1,0 +1,4 @@
+app.log
+/.venv/*
+.env
+/_pycahe_/*
