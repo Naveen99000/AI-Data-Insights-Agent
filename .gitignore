@@ -1,4 +1,4 @@
 app.log
 /.venv/*
 .env
-/_pycahe_/*
+/_pycache_/*
